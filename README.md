@@ -7,25 +7,25 @@ Du har fått jobben med å utvikle en nettside for en lokal kafé som ønsker å
 
 1. **Design og Layout:**
    - **Mobile-Først:** Design nettsiden med fokus på mobile enheter først, og bruk deretter mediespørringer for å tilpasse layouten til større skjermer.
-   - **Responsiv Design:** Nettsiden skal automatisk tilpasse seg ulike skjermstørrelser og oppløsninger.
+   - **Responsiv Design:** Nettsiden skal automatisk tilpasse seg ulike skjermstørrelser og oppløsninger.
 
 2. **Innhold:**
-   - **Hjemmeside:** En velkomstmelding med en kort introduksjon til kafeen.
-   - **Meny:** En interaktiv meny som hentes fra en ekstern JSON-fil og viser tilgjengelige retter og priser.
-   - **Bestillingsskjema:** Et enkelt skjema hvor kunder kan legge til varer i en bestillingsliste.
-   - **Kontaktinformasjon:** Adresse, telefonnummer og et innebygd Google Maps-kart som viser kafeens beliggenhet.
+   - **Hjemmeside:** En velkomstmelding med en kort introduksjon til kafeen.
+   - **Meny:** En interaktiv meny som hentes fra en ekstern JSON-fil og viser tilgjengelige retter og priser.
+   - **Bestillingsskjema:** Et enkelt skjema hvor kunder kan legge til varer i en bestillingsliste.
+   - **Kontaktinformasjon:** Adresse, telefonnummer og et innebygd Google Maps-kart som viser kafeens beliggenhet.
 
 3. **Interaktivitet med JavaScript:**
-   - **Dynamisk Meny:** Bruk JavaScript til å hente og vise menyen fra en ekstern JSON-fil.
-   - **Bestillingsfunksjon:** Implementer en funksjon som lar brukeren legge til eller fjerne varer fra bestillingslisten.
-   - **Validering av Skjema:** Sørg for at alle nødvendige felter i bestillingsskjemaet er fylt ut før sending.
+   - **Dynamisk Meny:** Bruk JavaScript til å hente og vise menyen fra en ekstern JSON-fil.
+   - **Bestillingsfunksjon:** Implementer en funksjon som lar brukeren legge til eller fjerne varer fra bestillingslisten.
+   - **Validering av Skjema:** Sørg for at alle nødvendige felter i bestillingsskjemaet er fylt ut før sending.
 
 4. **Ytelse og Tilgjengelighet:**
-   - **Optimalisering:** Sørg for at nettsiden laster raskt, spesielt på mobile enheter.
-   - **Tilgjengelighet:** Bruk semantisk HTML og sørg for at nettsiden er navigerbar med tastatur og skjermlesere.
+   - **Optimalisering:** Sørg for at nettsiden laster raskt, spesielt på mobile enheter.
+   - **Tilgjengelighet:** Bruk semantisk HTML og sørg for at nettsiden er navigerbar med tastatur og skjermlesere.
 
 5. **Ekstra Utfordring (Valgfritt):**
-   - **Lagring av Bestillinger:** Bruk LocalStorage til å lagre brukerens bestilling, slik at den ikke går tapt ved oppdatering av siden.
+   - **Lagring av Bestillinger:** Bruk LocalStorage til å lagre brukerens bestilling, slik at den ikke går tapt ved oppdatering av siden.
 
 **Begynnerkode:**
 
